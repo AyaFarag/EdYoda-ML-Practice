@@ -1,0 +1,4 @@
+numpy excercise 
+https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md
+
+http://sanjaymeena.io/tech/100-Numpy-Exercises/
