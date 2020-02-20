@@ -1,0 +1,20 @@
+assignment 1
+https://github.com/edyoda/Data-Scientist-program/blob/master/Practice%20Problems/Pandas/Pandas%20Practice%20Problem%201.ipynb
+
+
+assignment 2
+https://github.com/edyoda/Data-Scientist-program/blob/master/Practice%20Problems/Pandas/different%20data%20types-%20questions.ipynb
+
+
+assignment 3
+
+-Assignments on HR Data
+	
+1. Convert average_montly_hours into days & hours
+2. Give hike to people still with company & did in top 25%ile of performance
+
+
+-Assignments on Titanic Data
+	
+1.Create a new column with values KID,ADULT & OLD based on age
+2.Find the ichest person 
