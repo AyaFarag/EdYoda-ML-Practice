@@ -6,7 +6,7 @@ assignment 1
 https://github.com/edyoda/Data-Scientist-program/blob/master/Practice%20Problems/Pandas/Pandas%20Practice%20Problem%201.ipynb
 
 
-assignment 2
+assignment 2 DONE
 https://github.com/edyoda/Data-Scientist-program/blob/master/Practice%20Problems/Pandas/different%20data%20types-%20questions.ipynb
 
 
@@ -22,3 +22,8 @@ assignment 3
 	
 1.Create a new column with values KID,ADULT & OLD based on age
 2.Find the ichest person 
+
+
+Test 
+https://github.com/edyoda/Data-Scientist-program/blob/master/Practice%20Problems/Pandas/Pandas%20Graded%20Test%20-%20Problems.ipynb
+ 
